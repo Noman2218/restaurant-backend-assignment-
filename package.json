@@ -1,0 +1,30 @@
+{
+  "name": "restaurant-backend-assignment-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noman2218/restaurant-backend-assignment-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Noman2218/restaurant-backend-assignment-/issues"
+  },
+  "homepage": "https://github.com/Noman2218/restaurant-backend-assignment-#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "expess": "^0.0.1-security",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.17.0",
+    "nodemon": "^3.1.10"
+  }
+}
